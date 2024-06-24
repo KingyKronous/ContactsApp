@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|d:\\alex11g\\contactsapp\\contactsapp11g\\contactsapp\\contactsapp.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|solutionrelative:contactsapp.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|d:\\alex11g\\contactsapp\\contactsapp11g\\contactsapp\\contactsapp.web\\viewmodels\\changepasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|solutionrelative:contactsapp.web\\viewmodels\\changepasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|d:\\alex11g\\contactsapp\\contactsapp11g\\contactsapp\\contactsapp.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|solutionrelative:contactsapp.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|d:\\alex11g\\contactsapp\\contactsapp11g\\contactsapp\\contactsapp.web\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|solutionrelative:contactsapp.web\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|d:\\alex11g\\contactsapp\\contactsapp11g\\contactsapp\\contactsapp.web\\viewmodels\\contacteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|solutionrelative:contactsapp.web\\viewmodels\\contacteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|d:\\alex11g\\contactsapp\\contactsapp11g\\contactsapp\\contactsapp.web\\controllers\\basecrudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|solutionrelative:contactsapp.web\\controllers\\basecrudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|d:\\alex11g\\contactsapp\\contactsapp11g\\contactsapp\\contactsapp.web\\views\\contact\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|solutionrelative:contactsapp.web\\views\\contact\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|d:\\alex11g\\contactsapp\\contactsapp11g\\contactsapp\\contactsapp.web\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|solutionrelative:contactsapp.web\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|d:\\alex11g\\contactsapp\\contactsapp11g\\contactsapp\\contactsapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|solutionrelative:contactsapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F114D71-DE1D-43A5-9D9D-522B98080691}|ContactsApp.Data\\ContactsApp.Data.csproj|d:\\alex11g\\contactsapp\\contactsapp11g\\contactsapp\\contactsapp.data\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F114D71-DE1D-43A5-9D9D-522B98080691}|ContactsApp.Data\\ContactsApp.Data.csproj|solutionrelative:contactsapp.data\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactsAppWebContext_2b237db9_012f_4b4f_ba02_d93b9dff254d/True/SqlTable/dbo.Contacts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|d:\\alex11g\\contactsapp\\contactsapp11g\\contactsapp\\contactsapp.web\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}|ContactsApp.Web\\ContactsApp.Web.csproj|solutionrelative:contactsapp.web\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePasswordVM.cs",
+              "DocumentMoniker": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\ViewModels\\ChangePasswordVM.cs",
+              "RelativeDocumentMoniker": "ContactsApp.Web\\ViewModels\\ChangePasswordVM.cs",
+              "ToolTip": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\ViewModels\\ChangePasswordVM.cs",
+              "RelativeToolTip": "ContactsApp.Web\\ViewModels\\ChangePasswordVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:51:13.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "ContactsApp.Web\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "ContactsApp.Web\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwDMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T08:47:14.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ContactsApp.Web\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "ContactsApp.Web\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:46:53.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Views\\Contact\\List.cshtml",
+              "RelativeDocumentMoniker": "ContactsApp.Web\\Views\\Contact\\List.cshtml",
+              "ToolTip": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Views\\Contact\\List.cshtml",
+              "RelativeToolTip": "ContactsApp.Web\\Views\\Contact\\List.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T08:33:02.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactsApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactsApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T08:00:38.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ContactsApp.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ContactsApp.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAIkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:58:11.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseCrudController.cs",
+              "DocumentMoniker": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Controllers\\BaseCrudController.cs",
+              "RelativeDocumentMoniker": "ContactsApp.Web\\Controllers\\BaseCrudController.cs",
+              "ToolTip": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Controllers\\BaseCrudController.cs",
+              "RelativeToolTip": "ContactsApp.Web\\Controllers\\BaseCrudController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:10:27.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactsApp.Web\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactsApp.Web\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:07:47.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactEditVM.cs",
+              "DocumentMoniker": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\ViewModels\\ContactEditVM.cs",
+              "RelativeDocumentMoniker": "ContactsApp.Web\\ViewModels\\ContactEditVM.cs",
+              "ToolTip": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\ViewModels\\ContactEditVM.cs",
+              "RelativeToolTip": "ContactsApp.Web\\ViewModels\\ContactEditVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:04:06.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Data\\Repos\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ContactsApp.Data\\Repos\\UserRepository.cs",
+              "ToolTip": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Data\\Repos\\UserRepository.cs",
+              "RelativeToolTip": "ContactsApp.Data\\Repos\\UserRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:23:32.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Contacts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactsAppWebContext_2b237db9_012f_4b4f_ba02_d93b9dff254d/True/SqlTable/dbo.Contacts.sql",
+              "ToolTip": "dbo.Contacts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-20T06:07:33.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Views\\Contact\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactsApp.Web\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "D:\\alex11g\\contactsapp\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\Views\\Contact\\Create.cshtml",
+              "RelativeToolTip": "ContactsApp.Web\\Views\\Contact\\Create.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T06:02:48.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

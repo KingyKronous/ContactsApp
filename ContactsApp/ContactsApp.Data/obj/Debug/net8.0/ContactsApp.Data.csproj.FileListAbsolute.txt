@@ -1,0 +1,36 @@
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\bin\Debug\net8.0\ContactsApp.Data.deps.json
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\bin\Debug\net8.0\ContactsApp.Data.runtimeconfig.json
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\bin\Debug\net8.0\ContactsApp.Data.dll
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\bin\Debug\net8.0\ContactsApp.Data.pdb
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\bin\Debug\net8.0\ContactsApp.Shared.dll
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\bin\Debug\net8.0\ContactsApp.Shared.pdb
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.csproj.AssemblyReference.cache
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.AssemblyInfoInputs.cache
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.AssemblyInfo.cs
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.csproj.CoreCompileInputs.cache
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.sourcelink.json
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.csproj.CopyComplete
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.dll
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\refint\ContactsApp.Data.dll
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.pdb
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.genruntimeconfig.cache
+D:\Visual Studio\school\groupproject\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ref\ContactsApp.Data.dll
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\bin\Debug\net8.0\ContactsApp.Data.deps.json
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\bin\Debug\net8.0\ContactsApp.Data.runtimeconfig.json
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\bin\Debug\net8.0\ContactsApp.Data.dll
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\bin\Debug\net8.0\ContactsApp.Data.pdb
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\bin\Debug\net8.0\ContactsApp.Shared.dll
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\bin\Debug\net8.0\ContactsApp.Shared.pdb
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.csproj.AssemblyReference.cache
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.AssemblyInfoInputs.cache
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.AssemblyInfo.cs
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.csproj.CoreCompileInputs.cache
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.sourcelink.json
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\Contacts.B7955B8D.Up2Date
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.dll
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\refint\ContactsApp.Data.dll
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.pdb
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ContactsApp.Data.genruntimeconfig.cache
+D:\alex11g\contactsapp\ContactsApp11g\ContactsApp\ContactsApp.Data\obj\Debug\net8.0\ref\ContactsApp.Data.dll

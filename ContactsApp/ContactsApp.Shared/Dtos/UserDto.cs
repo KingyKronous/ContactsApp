@@ -10,8 +10,8 @@ namespace ContactsApp.Shared.Dtos
     {
         public UserDto()
         {
-            this.Contacts = new List<ContactDto>();
-            this.Groups = new List<GroupDto>();
+            this.Contacts = new List<ContactsDto>();
+            this.Groups = new List<ContactsDto>();
         }
 
         public string Username { get; set; }
@@ -26,8 +26,8 @@ namespace ContactsApp.Shared.Dtos
 
         public RoleDto Role { get; set; }
 
-        public List<ContactDto> Contacts { get; set; }
+        public List<ContactsDto> Contacts { get; set; }
 
-        public List<GroupDto> Groups { get; set; }
+        public List<ContactsDto> Groups { get; set; }
     }
 }

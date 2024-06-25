@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ContactsApp.Shared.Services.Contracts
 {
-    public interface IGroupsService : IBaseCrudService<GroupDto, IGroupRepository>
+    public interface IGroupsService : IBaseCrudService<ContactsDto, IGroupRepository>
     {
     }
 }

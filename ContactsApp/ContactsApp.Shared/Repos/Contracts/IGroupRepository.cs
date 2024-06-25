@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ContactsApp.Shared.Repos.Contracts
 {
-    public interface IGroupRepository : IBaseRepository<GroupDto>
+    public interface IGroupRepository : IBaseRepository<ContactsDto>
     {
     }
 }

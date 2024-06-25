@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace ContactsApp.Services
 {
     [AutoBind]
-    public class GroupsService : BaseCrudService<GroupDto, IGroupRepository>, IGroupsService
+    public class GroupsService : BaseCrudService<ContactsDto, IGroupRepository>, IGroupsService
     {
         public GroupsService(IGroupRepository repository) : base(repository)
         {

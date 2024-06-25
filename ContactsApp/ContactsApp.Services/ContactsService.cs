@@ -11,13 +11,13 @@ using System.Threading.Tasks;
 namespace ContactsApp.Services
 {
     [AutoBind]
-    public class ContactsService : BaseCrudService<ContactDto, IContactRepository>, IContactsService
+    public class ContactsService : BaseCrudService<ContactsDto, IContactRepository>, IContactsService
     {
         public ContactsService(IContactRepository repository) : base(repository)
         {
 
         }
-        public virtual Task<IEnumerable<ContactDto>> GetWithPaginationAsync(int pageSize, int pageNumber, string searchName, string searchPhone, string searchEmail)
+        public virtual Task<IEnumerable<ContactsDto>> GetWithPaginationAsync(int pageSize, int pageNumber, string searchName, string searchPhone, string searchEmail)
             => this._repository.GetWithPaginationAsync(pageSize, pageNumber, searchName, searchPhone, searchEmail);
     }
 }

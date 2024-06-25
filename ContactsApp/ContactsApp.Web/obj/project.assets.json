@@ -8998,23 +8998,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kingy Kronous\\.nuget\\packages\\": {},
+    "C:\\Users\\probagrehka\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio\\school\\groupproject\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\ContactsApp.Web.csproj",
+      "projectUniqueName": "Z:\\Programing\\ContactsApp\\ContactsApp\\ContactsApp.Web\\ContactsApp.Web.csproj",
       "projectName": "ContactsApp.Web",
-      "projectPath": "D:\\Visual Studio\\school\\groupproject\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\ContactsApp.Web.csproj",
-      "packagesPath": "C:\\Users\\Kingy Kronous\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio\\school\\groupproject\\ContactsApp11g\\ContactsApp\\ContactsApp.Web\\obj\\",
+      "projectPath": "Z:\\Programing\\ContactsApp\\ContactsApp\\ContactsApp.Web\\ContactsApp.Web.csproj",
+      "packagesPath": "C:\\Users\\probagrehka\\.nuget\\packages\\",
+      "outputPath": "Z:\\Programing\\ContactsApp\\ContactsApp\\ContactsApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Kingy Kronous\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\probagrehka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9023,20 +9023,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Visual Studio\\school\\groupproject\\ContactsApp11g\\ContactsApp\\ContactsApp.Data\\ContactsApp.Data.csproj": {
-              "projectPath": "D:\\Visual Studio\\school\\groupproject\\ContactsApp11g\\ContactsApp\\ContactsApp.Data\\ContactsApp.Data.csproj"
+            "Z:\\Programing\\ContactsApp\\ContactsApp\\ContactsApp.Data\\ContactsApp.Data.csproj": {
+              "projectPath": "Z:\\Programing\\ContactsApp\\ContactsApp\\ContactsApp.Data\\ContactsApp.Data.csproj"
             },
-            "D:\\Visual Studio\\school\\groupproject\\ContactsApp11g\\ContactsApp\\ContactsApp.Services\\ContactsApp.Services.csproj": {
-              "projectPath": "D:\\Visual Studio\\school\\groupproject\\ContactsApp11g\\ContactsApp\\ContactsApp.Services\\ContactsApp.Services.csproj"
+            "Z:\\Programing\\ContactsApp\\ContactsApp\\ContactsApp.Services\\ContactsApp.Services.csproj": {
+              "projectPath": "Z:\\Programing\\ContactsApp\\ContactsApp\\ContactsApp.Services\\ContactsApp.Services.csproj"
             },
-            "D:\\Visual Studio\\school\\groupproject\\ContactsApp11g\\ContactsApp\\ContactsApp.Shared\\ContactsApp.Shared.csproj": {
-              "projectPath": "D:\\Visual Studio\\school\\groupproject\\ContactsApp11g\\ContactsApp\\ContactsApp.Shared\\ContactsApp.Shared.csproj"
+            "Z:\\Programing\\ContactsApp\\ContactsApp\\ContactsApp.Shared\\ContactsApp.Shared.csproj": {
+              "projectPath": "Z:\\Programing\\ContactsApp\\ContactsApp\\ContactsApp.Shared\\ContactsApp.Shared.csproj"
             }
           }
         }
@@ -9045,6 +9046,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -9127,7 +9133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

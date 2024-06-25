@@ -5,11 +5,13 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactsApp.Web", "ContactsApp.Web\ContactsApp.Web.csproj", "{F8A39358-D0C3-41A2-8D8F-EE28033B65BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsApp.Shared", "ContactsApp.Shared\ContactsApp.Shared.csproj", "{E23D3D61-50FF-4820-B59B-0B230E0E7BD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactsApp.Shared", "ContactsApp.Shared\ContactsApp.Shared.csproj", "{E23D3D61-50FF-4820-B59B-0B230E0E7BD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsApp.Data", "ContactsApp.Data\ContactsApp.Data.csproj", "{9F114D71-DE1D-43A5-9D9D-522B98080691}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactsApp.Data", "ContactsApp.Data\ContactsApp.Data.csproj", "{9F114D71-DE1D-43A5-9D9D-522B98080691}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsApp.Services", "ContactsApp.Services\ContactsApp.Services.csproj", "{7AA80286-472F-4C69-B446-1201FAEC7910}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactsApp.Services", "ContactsApp.Services\ContactsApp.Services.csproj", "{7AA80286-472F-4C69-B446-1201FAEC7910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsApp.Test", "ContactsApp.Test\ContactsApp.Test.csproj", "{D5904B2D-44F1-4621-A7A6-91D3A983B0FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7AA80286-472F-4C69-B446-1201FAEC7910}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AA80286-472F-4C69-B446-1201FAEC7910}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AA80286-472F-4C69-B446-1201FAEC7910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5904B2D-44F1-4621-A7A6-91D3A983B0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5904B2D-44F1-4621-A7A6-91D3A983B0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5904B2D-44F1-4621-A7A6-91D3A983B0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5904B2D-44F1-4621-A7A6-91D3A983B0FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

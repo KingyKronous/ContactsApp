@@ -14,14 +14,14 @@ using Microsoft.EntityFrameworkCore;
 namespace ContactsApp.Data.Repos
 {
     [AutoBind]
-    public class ContactRepository : BaseRepository<Contact, ContactDto>, IContactRepository
+    public class ContactRepository : BaseRepository<Contact, ContactsDto>, IContactRepository
     {
         public ContactRepository(ContactsAppWebContext context, IMapper mapper) : base(context, mapper)
         {
 
         }
 
-        public async Task<IEnumerable<ContactDto>> GetWithPaginationAsync(int pageSize, int pageNumber, string searchName, string searchPhone, string searchEmail)
+        public async Task<IEnumerable<ContactsDto>> GetWithPaginationAsync(int pageSize, int pageNumber, string searchName, string searchPhone, string searchEmail)
         {
             var paginatedRecords = await _dbSet
                 .Where(c => c.Name.Contains(searchName) && c.Phone.Contains(searchPhone) && c.Email.Contains(searchEmail))

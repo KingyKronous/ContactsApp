@@ -7,16 +7,16 @@ using System.Threading.Tasks;
 
 namespace ContactsApp.Shared.Dtos
 {
-    public class GroupDto : BaseModel
+    public class ContactsDto : BaseModel
     {
-        public GroupDto()
+        public ContactsDto()
         {
-            this.Contacts = new List<ContactDto>();
+            this.Contacts = new List<ContactsDto>();
         }
 
         public string Name { get; set; }
         public int? UserId { get; set; }
         public UserDto User { get; set; }
-        public List<ContactDto> Contacts { get; set; }
+        public List<ContactsDto> Contacts { get; set; }
     }
 }

@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 namespace ContactsApp.Data.Repos
 {
     [AutoBind]
-    public class GroupRepository : BaseRepository<Group, GroupDto>, IGroupRepository
+    public class GroupRepository : BaseRepository<Group, ContactsDto>, IGroupRepository
     {
         public GroupRepository(ContactsAppWebContext context, IMapper mapper) : base(context, mapper)
         {

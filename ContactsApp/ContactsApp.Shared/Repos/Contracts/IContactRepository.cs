@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace ContactsApp.Shared.Repos.Contracts
 {
-    public interface IContactRepository : IBaseRepository<ContactDto>
+    public interface IContactRepository : IBaseRepository<ContactsDto>
     {
-        Task<IEnumerable<ContactDto>> GetWithPaginationAsync(int pageSize, int pageNumber, string searchName, string searchPhone, string searchEmail);
+        Task<IEnumerable<ContactsDto>> GetWithPaginationAsync(int pageSize, int pageNumber, string searchName, string searchPhone, string searchEmail);
     }
 }

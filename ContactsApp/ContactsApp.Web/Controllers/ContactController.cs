@@ -13,7 +13,7 @@ using Newtonsoft.Json;
 namespace ContactsApp.Web.Controllers
 {
     [Authorize(AuthenticationSchemes = CookieAuthenticationDefaults.AuthenticationScheme, Roles = "User, Admin")]
-    public class ContactController : BaseCrudController<ContactDto, IContactRepository, IContactsService, ContactEditVM, ContactDetailsVM>
+    public class ContactController : BaseCrudController<ContactsDto, IContactRepository, IContactsService, ContactEditVM, ContactDetailsVM>
     {
         protected readonly IGroupsService _groupsService;
         public ContactController(IContactsService service, IMapper mapper, IGroupsService groupsService) : base(service, mapper)
